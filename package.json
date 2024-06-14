@@ -10,7 +10,7 @@
   },
 
   "publishConfig": {
-    "registry": "http://13.201.124.205:8081/repository/dishify-npm-hosted-repo/"
+    "registry": "http://52.66.195.44:8081/repository/dishify-npm-hosted-repo/"
   },
   "keywords": [],
   "author": "",
